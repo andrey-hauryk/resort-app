@@ -1,3 +1,6 @@
+# Deploy netlify link
+https://gavrik-bsuir-2021-resort-app.netlify.app/rooms/double-basic
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
